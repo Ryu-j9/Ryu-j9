@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rounded&color=0:FF9A8B,100:87CDFA&height=200&section=header&text=Ryu's%20GitHub&fontSize=50&animation=scaleIn)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=0:FF9A8B,100:87CDFA&height=200&section=header&text=Ryu's%20GitHub👋&fontSize=90&fontSize=50&animation=scaleIn)
 
 **Ryu-j9/Ryu-j9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
