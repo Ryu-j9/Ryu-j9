@@ -1,15 +1,42 @@
-![header](https://capsule-render.vercel.app/api?type=rounded&color=0:FF9A8B,100:87CDFA&height=200&section=header&text=Ryu's%20GitHub👋&fontSize=90&fontSize=50&animation=scaleIn)
 
-**Ryu-j9/Ryu-j9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![header](https://capsule-render.vercel.app/api?type=rounded&color=100:FF9A8B,45:FAD0C4,100:A1C4FD&height=150&section=header&text=Ryu's%20GitHub👋&fontSize=48&fontColor=ffffff&animation=fadeIn)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...bb
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ... 
-- ⚡ Fun fact: ...
+
+
+🙇 자기소개
+---
+안녕하세요 새싹 개발자 류종구입니다.
+
+---
+
+💻 기술 및 스택
+---
+
+---
+
+📚 학습 및 경험
+---
+
+---
+
+🎯 목표
+---
+
+---
+
+
+
+📫 연락처
+---
+
+---
+
+🗂️ 기타 정보
+---
+
+---
+
+
+
 
